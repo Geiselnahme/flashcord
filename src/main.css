@@ -142,7 +142,7 @@ html:not(:hover) * {
 
 /* aSID-230713: Channel Typing Plugin Support */
 .containerDefault-YUSmu3:has(.channel-typing-indicator) {
-  background: url("https://sirio-network.com/flashcord/elements/stripe-transparent.png");
+  background: url("https://pbs.twimg.com/media/E0ykOt1WQAIEAW4?format=jpg&name=large");
   background-color: rgba(55,255,255,0.25) !important;
   background-repeat: repeat-x;
   animation: StripeAnim calc(1s * var(--Enable-Animations, 1)) linear infinite !important;
